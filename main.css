@@ -30,7 +30,7 @@ body{
     }
 
 }
-.image{
+.image,canvas{
     display: flex;
     flex-direction: column;
     gap: 50px;
